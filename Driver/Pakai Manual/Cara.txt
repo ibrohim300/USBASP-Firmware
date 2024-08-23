@@ -1,0 +1,4 @@
+1. Cara manual dipakai jika pakai zadig gagal
+2. buka file explorer ==>> Klik kanan 'this pc' =>> Manage =>> Driver =>> UsbAsp =>> Update Driver
+3. Cari filenya yg versi 0.1
+4. Done
